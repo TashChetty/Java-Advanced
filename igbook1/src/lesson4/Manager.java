@@ -1,5 +1,7 @@
 package lesson4;
 
+import lesson4.Employee;
+
 public class Manager extends Employee {
     private String deptName;
 

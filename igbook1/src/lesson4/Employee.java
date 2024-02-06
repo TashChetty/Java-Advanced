@@ -22,7 +22,31 @@ public class Employee {
                 + " SSN: " + ssn + " Salary: " + salary;
     }
 
-    public double getSalary(){
+    public double getSalary() {
         return this.salary;
     }
+
+    @Override
+    public String toString() {
+        return "ID: " + this.empId + " name: " + this.name;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        boolean result = false;
+        if ((o != null) && (o instanceof Employee)) {
+            Employee e = (Employee) o;
+            if ((e.empId == this.empId) &&
+                    (e.name.equals(this.name)) &&
+                    (e.ssn.equals(this.ssn)) &&
+                    (e.salary == this.salary)) {
+                result = true;
+            }
+
+        }
+        return result;
+
+    }
 }
+
+
