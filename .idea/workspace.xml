@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1483bd52-7628-4d1e-a319-dc246cd664fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/business/EmployeeStockPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/domain/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/domain/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/domain/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/domain/Engineer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/Employee04-01Soln/src/com/example/domain/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice1/practice115.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/domain/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/domain/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/domain/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/domain/Engineer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/Employee04-02Soln/src/com/example/domain/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice2/practice22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/src/com/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/Singleton04-03Soln/src/com/example/PeerSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/igbook1/src/lesson4/prac/practice3/practice37.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2c2c7F2vJHo71rgf3NrZDSvq2tK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ChettyNa/Desktop/Bootcamp 2023/Java Advanced"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1483bd52-7628-4d1e-a319-dc246cd664fb" name="Changes" comment="" />
+      <created>1707312948691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707312948691</updated>
+    </task>
+    <servers />
+  </component>
+</project>
