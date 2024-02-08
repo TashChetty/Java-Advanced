@@ -6,7 +6,7 @@ public class AbstractBankingMain {
         Bank bank = new Bank();
         initializeCustomers(bank);
 
-        // run the customer report
+
         CustomerReport report = new CustomerReport();
         report.setBank(bank);
         report.generateReport();

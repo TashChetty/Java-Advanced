@@ -8,7 +8,7 @@ public class Spider extends Animal {
 
     @Override
     public void eat() {
-        System.out.println("The spider eats a fly.");
+        System.out.println("Spider eats fly.");
     }
     
 }

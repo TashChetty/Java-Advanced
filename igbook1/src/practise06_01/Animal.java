@@ -9,7 +9,7 @@ public abstract class Animal {
     }
     
     public void walk() {
-        System.out.println("This animal walks on " + legs + " legs.");
+        System.out.println("The animl walks on :  " + legs + " legs.");
     }
     
     public abstract void eat();

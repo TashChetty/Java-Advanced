@@ -14,7 +14,7 @@ public class EmployeeStockPlan {
     }
 
     public int grantStock(Employee emp) {
-        // Stock is granted based on the employee type
+
         if (emp instanceof Director) {
             return directorShares;
         } else {

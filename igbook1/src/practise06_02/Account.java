@@ -18,7 +18,7 @@ public abstract class Account {
     
     @Override
     public String toString() {
-        return getDescription() + ": current balance is " + balance;
+        return getDescription() + ": The curr bal is " + balance;
     }
     
     public abstract boolean withdraw(double amount);

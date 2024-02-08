@@ -6,7 +6,7 @@ public class AbstractBankingMain {
         Bank bank = new Bank();
         initializeCustomers(bank);
 
-        // run the customer report
+
         CustomerReport report = new CustomerReport();
         report.setBank(bank);
         report.generateReport();
@@ -14,7 +14,7 @@ public class AbstractBankingMain {
 
     private static void initializeCustomers(Bank bank) {
         Customer customer;
-// Create several customers and their accounts
+
         bank.addCustomer("Will", "Smith");
         customer = bank.getCustomer(0);
         customer.addAccount(new SavingsAccount(500.00));
