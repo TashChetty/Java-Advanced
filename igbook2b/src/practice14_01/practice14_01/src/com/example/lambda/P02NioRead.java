@@ -1,4 +1,4 @@
-package practice14_01.practice14_01;
+package com.example.lambda;
 
 import java.io.IOException;
 import java.nio.file.Files;

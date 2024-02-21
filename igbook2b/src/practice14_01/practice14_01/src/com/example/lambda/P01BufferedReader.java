@@ -1,4 +1,5 @@
-package practice14_01.practice14_01;
+package com.example.lambda;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
