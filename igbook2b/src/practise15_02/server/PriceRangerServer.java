@@ -12,9 +12,9 @@ public class PriceRangerServer implements Runnable {
     private String price;
     private ServerSocket ss;
 
-    //low inclusive
-    //high exclusive
-    public PriceRangeServer(int port, int low, int high) throws IOException {
+    // low inclusive
+    // high exclusive
+    public void PriceRangeServer(int port, int low, int high) throws IOException {
         ss = new ServerSocket(port);
         ss.setSoTimeout(250);
         double d = Math.random() * (high - low) + low;
@@ -25,7 +25,7 @@ public class PriceRangerServer implements Runnable {
         System.out.println("Accepting connections on port " + ss.getLocalPort());
         while (!Thread.interrupted()) {
             try (Socket sock = ss.accept();
-                 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(sock.getOutputStream()))) {
+                    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(sock.getOutputStream()))) {
                 try {
                     Thread.sleep(2000);
                 } catch (InterruptedException ex) {
@@ -33,7 +33,7 @@ public class PriceRangerServer implements Runnable {
                 }
                 bw.write(price);
             } catch (SocketTimeoutException ste) {
-                //timeout every .25 seconds to see if interrupted
+                // timeout every .25 seconds to see if interrupted
             }
         }
         System.out.println("Done accepting");
