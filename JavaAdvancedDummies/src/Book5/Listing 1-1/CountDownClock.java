@@ -1,6 +1,4 @@
-package Book5.Listing
-
-public class CountDownClock extends Thread
+public class CountDownClock extends Thread	
 {
     public void run()	
     {
